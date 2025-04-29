@@ -1,6 +1,6 @@
-# CAMPUS_TECH_EXPERIENCE
+## **CAMPUS TECH EXPERIENCE.**
 
-## TECH EXPERIENCE: Day 1 (7:30 PM – 10:30 PM)
+### **TECH EXPERIENCE: Day 1 (7:30 PM – 10:30 PM)**
 
 ### Theme: "Unlocking the World of Data & AI"
 
